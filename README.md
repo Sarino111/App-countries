@@ -1,7 +1,7 @@
 # App countries
 
 Apka s pouzitim kniznice React  
-Podla nazvu krajiny zistime zopar informacii o nej
+Podla nazvu krajiny zistime zopar informacii o danej krajine
 
 ### Project setup
 
