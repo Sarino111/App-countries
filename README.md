@@ -1,5 +1,5 @@
-# Short app with information about countries
+# App countries
 
-### `yarn start`
+### Project setup
 
-Runs the app in the development mode.\
+Spusti `yarn install` v konzole pre nainstalovanie dependencies
