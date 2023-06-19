@@ -1,0 +1,33 @@
+/*
+// List page
+*/
+
+.alphabet{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: .5rem;
+
+    gap: .1em;
+}
+
+.alphabet li {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    font: {
+        weight: bold;
+        size: .5em;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    margin-top: 6rem;
+}

@@ -1,0 +1,58 @@
+/*
+// Search form
+*/
+
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: auto;
+    height: 2.5rem;
+    padding: 0rem;
+    margin-top: 1rem;
+    
+    background: #2f3640;
+
+    border-radius: 2.5rem;
+    -webkit-border-radius: 2.5rem;
+    -moz-border-radius: 2.5rem;
+    -ms-border-radius: 2.5rem;
+    -o-border-radius: 2.5rem;
+}
+
+.search-input {
+    float:left;
+    width: inherit;
+    padding: 0;
+    padding-left: 1rem;
+
+    font-size: 1rem;
+
+    border:none;
+    background: none;
+    outline:none;
+}
+
+.search-button {    
+    float: right;
+    
+    width: 2.5rem;
+    height: inherit;
+
+    padding-right: 0;
+    
+    border-radius: 50%;
+
+    background: #58616d;
+}
+
+
+
+.material-icon {
+    display: flex;
+    height: inherit;
+    margin-top: .6rem;
+    margin-left: .6rem;
+    background: url(/assets/search.svg) no-repeat;
+}
